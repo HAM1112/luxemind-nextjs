@@ -1,0 +1,1 @@
+# luxemind-nextjs
